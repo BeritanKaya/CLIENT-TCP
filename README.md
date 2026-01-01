@@ -1,4 +1,4 @@
-# TP6QT
+# CLIENT TCP
 
 ---
 ### Projet Client TCP
